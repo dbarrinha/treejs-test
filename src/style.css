@@ -12,6 +12,14 @@ body
     background-color: rgb(24,24,24);
 }
 
+h1 {
+    position: fixed;
+    top: 50%;
+    left: 45%;
+    color: #fff;
+    font-family: 'Poppins';
+}
+
 .webgl
 {
     position: fixed;
