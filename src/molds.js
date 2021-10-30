@@ -8,8 +8,8 @@ export const getSphere = () => {
     const material = new THREE.MeshStandardMaterial( 
         { 
             color: "#e78", 
-            metalness: 0.2,
-            roughness: 0.3, 
+            metalness: 0.8,
+            roughness: 0.2, 
             flatShading: 10,
             normalMap: normalTexture
         } 
